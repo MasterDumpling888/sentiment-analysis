@@ -1,0 +1,17 @@
+Libraries used in this project:
+
+- requests: HTTP library for Python
+- beautifulsoup4: Web scraping library
+- lxml: XML and HTML parser
+- pandas: Data manipulation library
+- nltk: Natural Language Toolkit
+- matplotlib: Data visualization library
+- seaborn: Data visualization library
+- transformers: State-of-the-art Natural Language Processing for PyTorch
+- torch: Machine learning library
+- numpy: Numerical computing library
+- scikit-learn: Machine learning library
+
+Run the following command to install the required libraries:
+
+pip install requests beautifulsoup4 lxml pandas nltk matplotlib seaborn transformers torch numpy scikit-learn
